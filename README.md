@@ -23,7 +23,6 @@ Meskipun ini project Analyst, saya menerapkan langkah-langkah terstruktur dalam 
 
 ## 🖥️ Dashboard Preview
 ![Dashboard view](image.png)
-*(Tips: Upload screenshot dashboard lu ke folder project, lalu panggil di sini agar orang langsung bisa lihat visualnya tanpa download file .pbix)*
 
 ---
 **Next Step (Transitioning to Data Engineering):**
